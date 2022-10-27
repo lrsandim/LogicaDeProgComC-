@@ -1,0 +1,15 @@
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\bin\Debug\net6.0\EntrataDeDadosPT2.exe
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\bin\Debug\net6.0\EntrataDeDadosPT2.deps.json
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\bin\Debug\net6.0\EntrataDeDadosPT2.runtimeconfig.json
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\bin\Debug\net6.0\EntrataDeDadosPT2.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\bin\Debug\net6.0\EntrataDeDadosPT2.pdb
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\EntrataDeDadosPT2.csproj.AssemblyReference.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\EntrataDeDadosPT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\EntrataDeDadosPT2.AssemblyInfoInputs.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\EntrataDeDadosPT2.AssemblyInfo.cs
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\EntrataDeDadosPT2.csproj.CoreCompileInputs.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\EntrataDeDadosPT2.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\refint\EntrataDeDadosPT2.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\EntrataDeDadosPT2.pdb
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\EntrataDeDadosPT2.genruntimeconfig.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula18\EntrataDeDadosPT2\EntrataDeDadosPT2\obj\Debug\net6.0\ref\EntrataDeDadosPT2.dll
