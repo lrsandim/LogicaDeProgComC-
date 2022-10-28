@@ -1,1 +1,1 @@
-# Curso de logica de Programação com C#
+# C# Primeiro passos: Lógica de Programação e Algoritmos.
