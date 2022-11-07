@@ -1,0 +1,15 @@
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ExerciciosBeecrowd.csproj.AssemblyReference.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ExerciciosBeecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ExerciciosBeecrowd.AssemblyInfoInputs.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ExerciciosBeecrowd.AssemblyInfo.cs
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ExerciciosBeecrowd.csproj.CoreCompileInputs.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\bin\Debug\net6.0\ExerciciosBeecrowd.exe
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\bin\Debug\net6.0\ExerciciosBeecrowd.deps.json
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\bin\Debug\net6.0\ExerciciosBeecrowd.runtimeconfig.json
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\bin\Debug\net6.0\ExerciciosBeecrowd.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\bin\Debug\net6.0\ExerciciosBeecrowd.pdb
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ExerciciosBeecrowd.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\refint\ExerciciosBeecrowd.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ExerciciosBeecrowd.pdb
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ExerciciosBeecrowd.genruntimeconfig.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\5LógicaDeProgramacaoEAlgoritimos\Aula23\ExerciciosBeecrowd\obj\Debug\net6.0\ref\ExerciciosBeecrowd.dll
