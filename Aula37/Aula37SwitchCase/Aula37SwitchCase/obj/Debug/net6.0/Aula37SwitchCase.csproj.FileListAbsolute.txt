@@ -1,0 +1,15 @@
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\bin\Debug\net6.0\Aula37SwitchCase.exe
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\bin\Debug\net6.0\Aula37SwitchCase.deps.json
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\bin\Debug\net6.0\Aula37SwitchCase.runtimeconfig.json
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\bin\Debug\net6.0\Aula37SwitchCase.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\bin\Debug\net6.0\Aula37SwitchCase.pdb
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\Aula37SwitchCase.csproj.AssemblyReference.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\Aula37SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\Aula37SwitchCase.AssemblyInfoInputs.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\Aula37SwitchCase.AssemblyInfo.cs
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\Aula37SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\Aula37SwitchCase.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\refint\Aula37SwitchCase.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\Aula37SwitchCase.pdb
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\Aula37SwitchCase.genruntimeconfig.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula37\Aula37SwitchCase\Aula37SwitchCase\obj\Debug\net6.0\ref\Aula37SwitchCase.dll
