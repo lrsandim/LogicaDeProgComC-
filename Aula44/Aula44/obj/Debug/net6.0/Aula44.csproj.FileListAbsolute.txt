@@ -1,0 +1,15 @@
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\bin\Debug\net6.0\Aula44.exe
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\bin\Debug\net6.0\Aula44.deps.json
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\bin\Debug\net6.0\Aula44.runtimeconfig.json
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\bin\Debug\net6.0\Aula44.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\bin\Debug\net6.0\Aula44.pdb
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\Aula44.csproj.AssemblyReference.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\Aula44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\Aula44.AssemblyInfoInputs.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\Aula44.AssemblyInfo.cs
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\Aula44.csproj.CoreCompileInputs.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\Aula44.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\refint\Aula44.dll
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\Aula44.pdb
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\Aula44.genruntimeconfig.cache
+C:\Users\lucaS\Documents\Mentoria Pedro Marins\Projetos\CursoUdemy\Aula44\Aula44\obj\Debug\net6.0\ref\Aula44.dll
